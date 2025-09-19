@@ -15,27 +15,11 @@ Los usuarios pueden agregar nombres, visualizar la lista y realizar el sorteo de
 
 ---
 
-## 🖼️ Vista previa
-
-![Vista previa de la aplicación](https://github.com/julieth333/ChallengeAmigoSecreto/assets/preview.png)  
-*(Agrega una captura de pantalla aquí para mostrar tu proyecto 👆)*
-
----
-
 ## 🛠️ Tecnologías utilizadas
 
 - 🖥️ **HTML5** → Estructura de la aplicación  
 - 🎨 **CSS3** → Estilos y diseño  
 - ⚡ **JavaScript (Vanilla)** → Lógica para manejo de lista y sorteo  
-
----
-
-## 📂 Estructura del proyecto
-ChallengeAmigoSecreto
-┣ 📜 index.html # Página principal
-┣ 📜 style.css # Estilos
-┣ 📜 app.js # Lógica en JavaScript
-┗ 📜 README.md # Documentación
 
 ---
 
